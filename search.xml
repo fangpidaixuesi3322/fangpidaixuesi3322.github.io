@@ -4,11 +4,11 @@
   
     
     <entry>
-      <title>world</title>
-      <link href="/world/"/>
-      <url>/world/</url>
+      <title>群聊</title>
+      <link href="/%E7%BE%A4%E8%81%8A/"/>
+      <url>/%E7%BE%A4%E8%81%8A/</url>
       
-        <content type="html"><![CDATA[<h1>Blog</h1>]]></content>
+        <content type="html"><![CDATA[<p><img src="1.jpg" alt=""></p><p><img src="2.jpg" alt=""><br><img src="3.jpg" alt=""></p>]]></content>
       
       
       
